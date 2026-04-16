@@ -35,9 +35,21 @@ This repository is mainly designed for inspection rather than formal reuse. The 
 
 ## Interactive figures
 
-Interactive versions of selected figures are available via GitHub Pages: **https://olivia-wilkinson.github.io/if-global-health**
+Interactive versions of the figures are available on GitHub Pages:
 
-These are supplementary to the static figures included in the write-up.
+**Main figures**
+- Figure 1. Records by vaccine group — [Open](https://olivia-wilkinson.github.io/if-global-health/interactive_results_figures/Figure_1_records_by_vaccine_group.html)
+- Figure 2. Comparison types — [Open](https://olivia-wilkinson.github.io/if-global-health/interactive_results_figures/Figure_2_comparison_types.html)
+- Figure 3. Comparative finding direction by vaccine group — [Open](https://olivia-wilkinson.github.io/if-global-health/interactive_results_figures/Figure_3_comparative_findings_by_vaccine_group.html)
+
+**Supplementary interactive figures**
+- Appendix Figure C1. Comparative finding direction by rigor subset — [Open](https://olivia-wilkinson.github.io/if-global-health/interactive_appendix_figures/Appendix_Figure_C1_sensitivity_by_rigor.html)
+- Appendix Figure C2. Meta-analysis readiness — [Open](https://olivia-wilkinson.github.io/if-global-health/interactive_appendix_figures/Appendix_Figure_C2_meta_readiness.html)
+- Appendix Figure C3. Main barriers to meta-analysis — [Open](https://olivia-wilkinson.github.io/if-global-health/interactive_appendix_figures/Appendix_Figure_C3_meta_barriers.html)
+- Appendix Figure C4. Records by decade. — [Open](https://olivia-wilkinson.github.io/if-global-health/interactive_appendix_figures/Appendix_Figure_C4_records_by_decade.html)
+- Appendix Figure C5. Records by route — [Open](https://olivia-wilkinson.github.io/if-global-health/interactive_appendix_figures/Appendix_Figure_C5_records_by_route.html)
+- Appendix Figure C6. Records by outcome — [Open](https://olivia-wilkinson.github.io/if-global-health/interactive_appendix_figures/Appendix_Figure_C6_records_by_outcome.html)
+- Appendix Figure C7. Findings by vaccine and comparison types. — [Open](https://olivia-wilkinson.github.io/if-global-health/interactive_appendix_figures/Appendix_Figure_C7_findings_by_vaccine_and_comparison_type.html)
 
 ## Relationship to the paper
 
